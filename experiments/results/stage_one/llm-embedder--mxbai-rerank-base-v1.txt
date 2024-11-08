@@ -1,0 +1,6 @@
+For file: output/llm-embedder--mxbai-rerank-base-v1.json
+Hits@10: 0.5876
+Hits@4: 0.4785
+MAP@10: 0.1791
+MRR@10: 0.4125
+--------------------

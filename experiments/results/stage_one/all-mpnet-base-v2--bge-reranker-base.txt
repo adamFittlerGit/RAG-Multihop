@@ -1,0 +1,6 @@
+For file: output/all-mpnet-base-v2--bge-reranker-base.json
+Hits@10: 0.5659
+Hits@4: 0.4927
+MAP@10: 0.1958
+MRR@10: 0.4436
+--------------------

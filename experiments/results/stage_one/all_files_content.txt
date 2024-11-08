@@ -1,0 +1,99 @@
+Filename: all-mpnet-base-v2--bge-reranker-base.txt
+----------------------------------------
+For file: output/all-mpnet-base-v2--bge-reranker-base.json
+Hits@10: 0.5659
+Hits@4: 0.4927
+MAP@10: 0.1958
+MRR@10: 0.4436
+--------------------
+
+========================================
+
+Filename: all-mpnet-base-v2--jina-reranker-v2-base-multilingual.txt
+----------------------------------------
+For file: output/all-mpnet-base-v2--jina-reranker-v2-base-multilingual.json
+Hits@10: 0.5672
+Hits@4: 0.5020
+MAP@10: 0.1973
+MRR@10: 0.4487
+--------------------
+
+========================================
+
+Filename: all-mpnet-base-v2--mxbai-rerank-base-v1.txt
+----------------------------------------
+For file: output/all-mpnet-base-v2--mxbai-rerank-base-v1.json
+Hits@10: 0.5392
+Hits@4: 0.4417
+MAP@10: 0.1689
+MRR@10: 0.3898
+--------------------
+
+========================================
+
+Filename: instructor-base--bge-reranker-base.txt
+----------------------------------------
+For file: output/instructor-base--bge-reranker-base.json
+Hits@10: 0.6217
+Hits@4: 0.5424
+MAP@10: 0.2088
+MRR@10: 0.4800
+--------------------
+
+========================================
+
+Filename: instructor-base--jina-reranker-v2-base-multilingual.txt
+----------------------------------------
+For file: output/instructor-base--jina-reranker-v2-base-multilingual.json
+Hits@10: 0.6222
+Hits@4: 0.5463
+MAP@10: 0.2125
+MRR@10: 0.4884
+--------------------
+
+========================================
+
+Filename: instructor-base--mxbai-rerank-base-v1.txt
+----------------------------------------
+For file: output/instructor-base--mxbai-rerank-base-v1.json
+Hits@10: 0.5867
+Hits@4: 0.4674
+MAP@10: 0.1769
+MRR@10: 0.4096
+--------------------
+
+========================================
+
+Filename: llm-embedder--bge-reranker-base.txt
+----------------------------------------
+For file: output/llm-embedder--bge-reranker-base.json
+Hits@10: 0.6204
+Hits@4: 0.5410
+MAP@10: 0.2149
+MRR@10: 0.4936
+--------------------
+
+========================================
+
+Filename: llm-embedder--jina-reranker-v2-base-multilingual.txt
+----------------------------------------
+For file: output/llm-embedder--jina-reranker-v2-base-multilingual.json
+Hits@10: 0.6217
+Hits@4: 0.5548
+MAP@10: 0.2151
+MRR@10: 0.4969
+--------------------
+
+========================================
+
+Filename: llm-embedder--mxbai-rerank-base-v1.txt
+----------------------------------------
+For file: output/llm-embedder--mxbai-rerank-base-v1.json
+Hits@10: 0.5876
+Hits@4: 0.4785
+MAP@10: 0.1791
+MRR@10: 0.4125
+--------------------
+
+========================================
+

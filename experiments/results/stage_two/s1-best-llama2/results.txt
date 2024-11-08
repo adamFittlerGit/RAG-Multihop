@@ -1,0 +1,44 @@
+Question Type: inference_query
+ Precision: 0.83
+ Recall: 0.68
+ F1 Score: 0.69
+ Meteor Score: 0.55
+ Rouge F1 Score: 0.69
+ Bert Precision Score: 0.94
+ Bert Recall Score: 0.96
+
+Question Type: comparison_query
+ Precision: 0.20
+ Recall: 0.01
+ F1 Score: 0.02
+ Meteor Score: 0.02
+ Rouge F1 Score: 0.02
+ Bert Precision Score: 0.78
+ Bert Recall Score: 0.84
+
+Question Type: null_query
+ Precision: 0.06
+ Recall: 0.01
+ F1 Score: 0.01
+ Meteor Score: 0.02
+ Rouge F1 Score: 0.01
+ Bert Precision Score: 0.81
+ Bert Recall Score: 0.85
+
+Question Type: temporal_query
+ Precision: 0.35
+ Recall: 0.02
+ F1 Score: 0.02
+ Meteor Score: 0.03
+ Rouge F1 Score: 0.02
+ Bert Precision Score: 0.78
+ Bert Recall Score: 0.84
+
+Overall Metrics:
+ Precision: 0.42
+ Recall: 0.23
+ F1 Score: 0.23
+ Meteor Score: 0.19
+ Rouge F1 Score: 0.23
+ Bert Precision Score: 0.84
+ Bert Recall Score: 0.88
